@@ -8,10 +8,12 @@ Dieses Unterprojekt ist eine minimale Forge-Mod, die das vorhandene OBJ als plat
 
 ## Starten
 ```bash
-cd forge-test-1.20.1
-# optional, falls gradle-wrapper fehlt:
-gradle wrapper
+# aus Repo-Root möglich:
 ./gradlew runClient
+
+# oder direkt im Unterprojekt:
+cd forge-test-1.20.1
+gradle runClient
 ```
 
 ## Im Spiel testen

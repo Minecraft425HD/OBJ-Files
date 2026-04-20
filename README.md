@@ -8,3 +8,6 @@ Dieses Repository enthält OBJ-Dateien und ein sofort testbares Forge-Beispielpr
 
 Wenn du das Modell direkt im Spiel testen willst, nutze:
 `forge-test-1.20.1/README.md`
+
+Direkt aus dem Repo-Root starten:
+`./gradlew runClient`
