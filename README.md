@@ -11,3 +11,5 @@ Wenn du das Modell direkt im Spiel testen willst, nutze:
 
 Direkt aus dem Repo-Root starten:
 `./gradlew runClient`
+
+`./gradlew` lädt Gradle automatisch herunter (keine lokale Gradle-Installation nötig).

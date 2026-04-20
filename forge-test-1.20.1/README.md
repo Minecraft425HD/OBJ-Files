@@ -4,14 +4,14 @@ Dieses Unterprojekt ist eine minimale Forge-Mod, die das vorhandene OBJ als plat
 
 ## Voraussetzungen
 - Java 17
-- Gradle (oder Wrapper)
+- keine lokale Gradle-Installation nötig (`../gradlew` lädt Gradle automatisch)
 
 ## Starten
 ```bash
-# aus Repo-Root möglich:
+# aus Repo-Root (empfohlen, ohne lokale Gradle-Installation):
 ./gradlew runClient
 
-# oder direkt im Unterprojekt:
+# oder direkt im Unterprojekt mit lokal installiertem Gradle:
 cd forge-test-1.20.1
 gradle runClient
 ```
