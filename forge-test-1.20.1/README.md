@@ -2,6 +2,8 @@
 
 Dieses Unterprojekt ist eine minimale Forge-Mod, die das vorhandene OBJ als platzierbaren Block (`destillery`) registriert.
 
+Modellmaß im Spiel: **1 Block breit, 2 Blöcke hoch, 3 Blöcke lang** (zentriert um den platzieren Block).
+
 ## Voraussetzungen
 - Java 17
 - keine lokale Gradle-Installation nötig (`../gradlew` lädt Gradle automatisch)
