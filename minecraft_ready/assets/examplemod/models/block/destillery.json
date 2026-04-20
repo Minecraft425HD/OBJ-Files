@@ -1,0 +1,9 @@
+{
+  "loader": "forge:obj",
+  "model": "examplemod:models/block/destillery.obj",
+  "flip-v": true,
+  "ambientocclusion": true,
+  "textures": {
+    "particle": "examplemod:block/destillery"
+  }
+}
